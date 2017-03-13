@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="1981" started-at="2017-02-20T16:59:00Z" finished-at="2017-02-20T16:59:02Z">
+    <groups>
+    </groups>
+    <test name="CheckTextInChapter1" duration-ms="1981" started-at="2017-02-20T16:59:00Z" finished-at="2017-02-20T16:59:02Z">
+      <class name="myTests.CheckPageText">
+        <test-method status="PASS" signature="CheckTextInChapter1()[pri:0, instance:myTests.CheckPageText@1e6454ec]" name="CheckTextInChapter1" duration-ms="1106" started-at="2017-02-20T18:59:00Z" finished-at="2017-02-20T18:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTextInChapter1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:myTests.CheckPageText@1e6454ec]" name="tearDown" is-config="true" duration-ms="864" started-at="2017-02-20T18:59:02Z" finished-at="2017-02-20T18:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- myTests.CheckPageText -->
+    </test> <!-- CheckTextInChapter1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
